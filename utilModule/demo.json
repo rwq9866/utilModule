@@ -1,10 +1,11 @@
 {
-  "name": "ALemon",
-  "age": 24.2,
-  "car": null,
-  "major":["敲代码","学习"],
-  "Nativeplace": {
-  "city": "广州",
+  "name": "my",
+  "gender": "男",
+  "age": 20,
+  "salary":35000.96,
+  "hobby":["programme","game"],
+  "Workplace": {
+  "city": "杭州",
   "country": "China"
   }
 }
