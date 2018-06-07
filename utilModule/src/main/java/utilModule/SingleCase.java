@@ -1,6 +1,6 @@
 package utilModule;
 
-//java单利模式  懒汉模式和饿汉模式
+//java单例模式  懒汉模式和饿汉模式
 public class SingleCase {
 	public static void main(String[] args) {
 		//Girl friend = new Girl();
